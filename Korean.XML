@@ -3,7 +3,7 @@
   <play>시작</play>
   <settings>설정</settings>
   <search_game>게임 검색</search_game>
-  <use_stairs>use ladder</use_stairs>
+  <use_stairs>사다리 사용</use_stairs>
   <open>열기</open>
   <read_note>메모 읽기</read_note>
   <six_hands_note>정보:
@@ -475,7 +475,7 @@
   <grid_note_title>그리드 코드</grid_note_title>
   <grid_gate_message>보안 문 열림...</grid_gate_message>
   <blue_color>파랑색</blue_color>
-  <green_color>초록색</green_color>
+  <green_color>녹색</green_color>
   <pink_color>분홍색</pink_color>
   <red_color>빨간색</red_color>
   <white_color>하얀색</white_color>
@@ -500,4 +500,255 @@
   <spikes_note_title>스파이크 정보:</spikes_note_title>
   <text_chat>채팅</text_chat>
   <words_filter>텍스트 필터링</words_filter>
+<gift_missing_title>사라진 선물!!</gift_missing_title>
+  <gift_missing_note>그 장난꾸러기 노움들이 나무에서 선물을 훔쳤어요! 그들을 찾으세요... 그들의 웃음소리나 종소리에 이끌려 그들의 실루엣을 찾고 그들이 발견하면 눈덩이를 던져 선물을 풀어주세요!
+
+다음 각 지역에서 노움 2명을 찾으십시오.
+
+어두운 방
+사무실 방
+주차</gift_missing_note>
+  <gift_missing_title>
+누락된 선물 제목</gift_missing_title>
+  <gift_missing_note>누락된 선물 노트</gift_missing_note>
+  <snowball_info>스노볼! 재미를 가지고 장난 꾸러기 스노우볼을 던져 그들을 기절시킵니다.</snowball_info>
+  <snowball>스노우볼</snowball>
+  <christmas_gift>크리스마스 선물</christmas_gift>
+  <christmas_gift_info>그놈이 훔친 선물을 크리스마스 트리에 돌려주고 보상을 받으세요!</christmas_gift_info>
+  <keyboard>Keyboard &amp; Mouse</keyboard>
+  <controller>컨트롤러</controller>
+  <nickname_emblem>닉네임 엠블럼</nickname_emblem>
+  <cosmetic>화장품</cosmetic>
+  <radiation_danger>방사선 위험</radiation_danger>
+  <spraycan>
+스프레이 캔</spraycan>
+  <hold_rotate_hint>[커서 가로로 이동] 개체 회전</hold_rotate_hint>
+  <recepcionist_note_title>엔티티 #-18</recepcionist_note_title>
+  <recepcionist_note>정보
+이 독립체에 대해 알려진 것은 거의 없으며, 인간이 아닌 얼굴을 한 휴머노이드입니다. 분명히 그들은 모든 방과 복도를 헤매면서 호텔을 지켜보고 있으며 매우 해로운 녹색 액체를 토하는 것을 목격했습니다. 호텔 투숙객이 아닌 사람들에게는 상당히 적대적이기 때문에 그들 중 누구와도 마주치지 않도록 주의하십시오.
+
+그들은 그 지역에 서식하는 나방의 고치를 먹고 싶어한다는 소문이 있습니다. 아주 드물게 그들은 메인 식당에서 식사를 하는 것을 목격했습니다.
+
+참조
+다음 사진은 버려진 호텔에서 원정 중에 찍은 것입니다.</recepcionist_note>
+  <moth_note_title>엔티티 #4</moth_note_title>
+  <moth_note>정보
+낡고 버려진 복도에는 거대한 날아다니는 곤충들이 있는데, 등에는 두개골을 닮은 모습으로 구별됩니다.
+그들은 광원이 직접 닿을 때 빛에 더 끌리지만 가시성이 없으면 위협을 찾기가 어렵습니다.
+
+그들은 매우 영토적이고 공격적이므로 한 번의 실행을보고 뒤돌아 보지 마십시오.
+
+참조
+다음 사진은 복도에서 목격된 거대한 죽음의 나방을 보여줍니다.</moth_note>
+  <artroom_key>미술실 키</artroom_key>
+  <art_room_key_info>미술실 키 정보</art_room_key_info>
+  <candle>양초</candle>
+  <candle_info>
+양초, 그 불은 벽난로를 다시 밝히는 데 사용할 수 있습니다.</candle_info>
+  <curved_pipe>구부러진 파이프</curved_pipe>
+  <pipe_info>파이프 정보</pipe_info>
+  <fossil_a>암모나이트 화석</fossil_a>
+  <fossil_b>물고기 화석</fossil_b>
+  <fossil_c>삼엽충 화석</fossil_c>
+  <gem>보석</gem>
+  <gem_info>찬란한 보석, 직사광선을 받으면 빛이 반사된다고 한다</gem_info>
+  <ingot_6k>6킬로 주괴</ingot_6k>
+  <ingot_6k_info>철괴, 그 무게는 6kg</ingot_6k_info>
+  <ingot_8k>8킬로 주괴</ingot_8k>
+  <ingot_8k_info>철괴, 그 무게는 8kg</ingot_8k_info>
+  <ingot_10k>10킬로 주괴</ingot_10k>
+  <ingot_10k_info>철괴, 그 무게는 10kg</ingot_10k_info>
+  <moth_cocoon>나방 고치</moth_cocoon>
+  <cocoon_info>나방의 고치, 왠지 크기가 너무 작다..</cocoon_info>
+  <pipe>파이프</pipe>
+  <spraycan_info>그래피티를 칠하기 위한 스프레이</spraycan_info>
+  <vinyl_dish>비닐 레코드</vinyl_dish>
+  <vinyl_dish_info>아주 오래된 비닐 레코드를 축음기에 넣어 멜로디를 듣습니다.</vinyl_dish_info>
+  <elevator_keys>엘리베이터 키</elevator_keys>
+  <elevator_keys_info>엘리베이터를 여는 데 사용할 수 있는 열쇠.</elevator_keys_info>
+  <boiler_keys>보일러실 열쇠</boiler_keys>
+  <boiler_keys_info>보일러실 문을 여는 열쇠</boiler_keys_info>
+  <trilobite_puzzle_msg>종 : 엘드레드지옵스 R. (Trilobitia) 무게: 8킬로.</trilobite_puzzle_msg>
+  <ammonite_puzzle_msg>종: 플레우로케라스 S, (암모나이트), 무게: 6킬로</ammonite_puzzle_msg>
+  <fish_puzzle_msg>종: 프리스카랄, 선사시대 물고기, 무게: 10킬로</fish_puzzle_msg>
+  <statue_face>동상 얼굴</statue_face>
+  <statue_face_info>동상의 부서진 부분.</statue_face_info>
+  <chimney_note_title>굴뚝</chimney_note_title>
+  <chimney_note>
+벽난로를 찾으면 주저하지 말고 불을 붙이세요...
+
+이 굴뚝은 보일러의 난방 시스템에 연결되어 있으므로 모두 켜지면 기계가 다시 작동할 수 있습니다.</chimney_note>
+  <musseum_note_title>박물관</musseum_note_title>
+  <musseum_note>이 박물관에는 3개의 화석이 전시되어 있지만 모래로 만든 복제품입니다.
+
+이 물체들 중 하나 안에 숨겨진 무언가가 있다고 하는데, 그 물체를 물속에 넣어야 비로소 드러난다...</musseum_note>
+  <artroom_note_title>미술 전시회</artroom_note_title>
+  <artroom_note>여기에 전시된 예술품은 일부 방에서 동일합니다. 방 번호에 주의하세요...</artroom_note>
+  <mirrors_note_title>거울</mirrors_note_title>
+  <mirrors_note>
+이 방에는 8개의 거울이 있고 중앙에 그림이 있습니다. 그 그림은 광선에 맞으면 부서지지만 8개의 거울이 모두 같은 광선으로 연결되어 있어야 합니다.
+
+빛의 광선을 투사하려면 보석을 빛에 직접 배치하기만 하면 됩니다.</mirrors_note>
+  <danceroom_note_title>댄스 룸</danceroom_note_title>
+  <danceroom_note>
+댄스룸의 음악을 다시 틀고, 방을 나갔다가 잠시 후 돌아와서 올바른 순서로 3개의 키를 연주해야 할 때입니다...</danceroom_note>
+  <boilers_note_title>보일러실</boilers_note_title>
+  <boilers_note>기계실에 접근할 수 있게 되면 보일러를 작동시키기 위해 다음 단계를 따라야 합니다.
+1- 벽난로를 켜십시오.
+2- 수도관을 수리합니다.
+3- 정확한 온도를 설정합니다.
+
+이 작업이 완료되면 마지막 단계는 레버를 당겨 기계를 시작하는 것입니다.</boilers_note>
+  <hive_note_title>나방 둥지</hive_note_title>
+  <hive_note>죽음의 나방의 둥지가 발견되었고, 탐사팀은 이 생물의 고치 표본을 포획하려 했지만 모든 것이 통제 불능 상태였습니다...
+누군가 아직 살아 있다면 다음 사항에 주의하십시오.
+
+나방은 증기에 기절할 수 있지만, 불행하게도 보일러가 작동을 멈췄으므로 수리하고 다시 작동시켜야 합니다.</hive_note>
+  <hotel_escape_note_title>엘레베이터</hotel_escape_note_title>
+  <hotel_escape_note>일부 팀원은 엘리베이터를 통해 간신히 탈출했지만 안타깝게도 열쇠를 잃어버렸습니다..
+
+하지만.. 또 다른 키 세트가 있지만 그 중 하나가 가지고 있습니다...
+
+열쇠를 얻을 수 있는 유일한 방법은 어떤 식으로든 그 물건의 주의를 분산시키는 것입니다. 아마도 우리는 그들이 일반적으로 먹는 음식을 가지고 그를 식당으로 끌어들여야 할 것입니다. 우리는 접시에 음식이 있고 테이블 벨을 울리면 그 일이 올거야...</hotel_escape_note>
+  <storage_key>스토리지 키</storage_key>
+  <temperature_machine_note_1>{0}개의 보일러가 있으며 제대로 작동하려면 각각 특정 온도가 필요합니다.
+온도는 다음과 같습니다. </temperature_machine_note_1>
+  <temperature_machine_note_2>보일러 기계 #{0}  =&gt;  {1}°</temperature_machine_note_2>
+  <distant_engine_msg>멀리서 엔진 소리가 들렸다...</distant_engine_msg>
+  <cam_grain>필름 그레인</cam_grain>
+  <cam_dof>피사계 심도</cam_dof>
+  <fossil_info>화석의 복제품을 물에 담그면 분해될 수 있습니다.</fossil_info>
+  <pick_all>모두 픽업</pick_all>
+  <crosshair>십자선</crosshair>
+  <camera_smooth>부드러운 카메라 움직임</camera_smooth>
+  <press_any_key>아무 키나 누르시오</press_any_key>
+  <players_menu>플레이어 메뉴</players_menu>
+  <audio_mode>스피커 모드</audio_mode>
+  <locked>잠김</locked>
+  <book_blue>파란책</book_blue>
+  <book_green>초록책</book_green>
+  <book_red>빨간책</book_red>
+  <book_blue_info>파란색 책에는 로마 숫자 '1'이 새겨져 있습니다.</book_blue_info>
+  <book_red_info>빨간 책에는 로마 숫자 "3"이 새겨져 있습니다.</book_red_info>
+  <book_green_info>녹색 책에는 로마 숫자 "5"가 새겨져 있습니다.</book_green_info>
+  <chalice_air>공기 성배</chalice_air>
+  <chalice_air_info>내부에서 연기를 내뿜는 고대 황금 성배입니다.</chalice_air_info>
+  <chalice_earth>지구의 성배</chalice_earth>
+  <chalice_earth_info>고대의 황금 성배, 흙으로 가득 차 있습니다.</chalice_earth_info>
+  <chalice_fire>불의 성배</chalice_fire>
+  <chalice_fire_info>고풍스러운 황금 성배로, 타오르는 숯으로 가득 차 있습니다.</chalice_fire_info>
+  <chalice_water>물의 성배</chalice_water>
+  <chalice_water_info>고대 황금 성배에 물이 채워져 있습니다.</chalice_water_info>
+  <cloverkey>클로버 열쇠</cloverkey>
+  <cloverkey_info>클로버 무늬가 새겨진 열쇠입니다.</cloverkey_info>
+  <diskette>디스켓</diskette>
+  <diskette_info>오래된 디스켓에는 정보가 들어 있을 수 있습니다.</diskette_info>
+  <pesticide>농약</pesticide>
+  <pesticide_info>스프레이 장치를 사용하면 나쁜 잡초를 없앨 수 있습니다.</pesticide_info>
+  <industrial_scissors>산업용 가위</industrial_scissors>
+  <industrial_scissors_info>단단한 표면을 절단하는 데 사용되는 산업용 도구입니다.</industrial_scissors_info>
+  <vhs_effect>VHS 효과</vhs_effect>
+  <workshop>창작마당</workshop>
+  <create_settings>게임 설정</create_settings>
+  <modding>모딩</modding>
+  <active_units>활성 수준 엔티티</active_units>
+  <reset_units>엔티티 재설정</reset_units>
+  <add_unit>엔티티 추가</add_unit>
+  <ach_mod_warning>경고:
+모딩이 활성화되면 진행 성과가 잠금 해제되지 않습니다.</ach_mod_warning>
+  <upload>업로드</upload>
+  <download>다운로드</download>
+  <filter_by>필터링 기준</filter_by>
+  <description>설명</description>
+  <tags>태그</tags>
+  <icon_path>맞춤 아이콘 경로</icon_path>
+  <delete>삭제</delete>
+  <update>업데이트</update>
+  <chalice_directions_note>"{0}"에 바람이 불고 "{1}"이 불에 타면 "{2}"에서 땅이 움직이고 "{3}"에 물이 넘치게 됩니다.</chalice_directions_note>
+  <case_puzzle_note>못찾았는데... 코드를 찾으려고 노력했지만 상처가 나를 덮쳤습니다.
+{0}에서 첫 번째 숫자를 봤고, {1}에서 두 번째 숫자를 봤어요. 그 순간, 그 생물 중 하나가 나에게 심각한 부상을 입혔습니다. 나는 가까스로 탈출했지만 세 번째 숫자는 아직 없습니다. {2} 또는 {3}에 있을 것 같습니다. 추측해야 할 네 번째 숫자는 다음과 같습니다.
+누군가 이걸 발견하면 여기서 나가려면 서류가방에 들어 있는 도구가 필요하다고 전해 주세요. 어쩌면 나보다 운이 더 좋을지도 모르죠.</case_puzzle_note>
+  <north>북쪽</north>
+  <south>남쪽</south>
+  <east>동쪽</east>
+  <west>서쪽</west>
+  <this_room>이 방</this_room>
+  <storage_room>창고</storage_room>
+  <sector5>섹터 5</sector5>
+  <sector3>섹터 3</sector3>
+  <maze_entrace>미로 입구</maze_entrace>
+  <credential_note>"{0}" 배지가 있는 팀원만 시스템에 접근할 수 있으며 지침은 섹터 5의 제어실에 있습니다.</credential_note>
+  <black_color>검은색</black_color>
+  <brown_color>갈색</brown_color>
+  <grey_color>회색</grey_color>
+  <orange_color>주황색</orange_color>
+  <thepassword>비밀번호</thepassword>
+  <password_instructions_note>비밀번호를 얻으려면 자격 증명의 ID를 읽고 다음 단계를 따라야 합니다.
+1- 모든 문자가 먼저 옵니다
+2- 2에 2의 수를 더하세요
+3- 마지막 ID 코드 연결
+
+참고: 일부 ID에서는 3단계가 필요하지 않습니다.
+
+예:</password_instructions_note>
+  <backup_note_title>백업 지침</backup_note_title>
+  <backup_note>1- 노트북 찾기
+.
+
+2- 다음 명령을 입력하여 시스템에 액세스합니다.
+" 로그인 사용자 이름 "(사용자 이름을 팀 구성원의 이름으로 대체)
+
+3- 로그인한 후 다음 명령을 입력하여 데이터에 액세스합니다.
+" CD 디스크01 "
+
+4- 다음 명령을 입력하여 백업 데이터를 생성합니다.
+" -백업 시작 "
+
+5- 마지막으로 백업이 완료될 때까지 기다립니다.</backup_note>
+  <library_puzzle_note>죽음의 문턱에 이르렀고 이성이 약해지고 있습니다... 앉아서 힘을 모아 깨어있도록 노력하겠습니다.
+
+빈 선반과 로마 숫자가 여기서 빠져나가는 열쇠임에 틀림없다.</library_puzzle_note>
+  <plantentity_note_title>기밀.
+
+파일:
+개체 #172</plantentity_note_title>
+  <plantentity_note_description>매우 적대적인 돌연변이 생물인 이 생물은 뿌리와 식물로 구성된 인간형이며 인간의 살을 대량으로 먹고 시력이 부족하지만 청각이 발달했으며 환경을 유리하게 이용하는 것으로 생각됩니다. 환경에 적응하여 멀리서 존재를 숨기고 감지할 수 있을 뿐만 아니라 예기치 않게 공격할 수도 있습니다.
+
+항상 주변에 주의를 기울이고, 은밀하게 행동하고 숨어 지내는 것이 좋습니다.
+
+다음 사진은 탐험가가 죽기 전에 찍은 사진인데, 무언가에 걸려서 탈출하지 못했습니다.</plantentity_note_description>
+  <contropanel_puzzle_note>도어 전원 복구
+
+지침:
+
+- 회색 슬롯에는 에너지가 필요합니다.
+- 활성화된 모든 슬롯은 녹색이어야 합니다.
+- 슬롯이 빨간색일 경우, 에너지 슬롯을 1개 추가해야 합니다.
+- 슬롯이 노란색인 경우, 에너지 슬롯 1개를 제거해야 합니다.</contropanel_puzzle_note>
+  <voice_active>음성 활성화</voice_active>
+  <churchstatues_note_title>조각상</churchstatues_note_title>
+  <churchstatues_note>페가수스가 날아오를 때 그 날개는 평화의 바람을 불러일으킵니다.
+악마의 불타는 피부는 결코 멈추지 않는 불꽃을 발산합니다.
+사자의 장엄한 갈기는 꽃이 만발한 초원이었습니다.
+인어는 바다와 바다를 헤엄칩니다.</churchstatues_note>
+  <mazeentrace_note>제가 돌아오지 못할 경우를 대비해 이 메모를 남깁니다. '보물'과 출구를 찾아 미로 속으로 들어가려고 합니다. 출구가 2개 있다는 걸 알아요... 이 입구까지 세면 3개죠.
+
+goodbye.</mazeentrace_note>
+  <jump>점프</jump>
+  <cathedral_treasure_note>대성당에서 보물을 찾는데 지쳤어요. 금속탐지기가 있었으면 좋겠어요....</cathedral_treasure_note>
+  <keys_group>열쇠</keys_group>
+  <small_key>작은 열쇠</small_key>
+  <candy_sock>크리스마스 양말</candy_sock>
+  <candysock_info>크리스마스 양말에는 쿠키가 들어있어요...</candysock_info>
+  <santa_help>산타는 당신의 도움이 필요합니다!!</santa_help>
+  <xmas_event_invite_txt>크리스마스가 뒷방에 도착했습니다! 하지만 문제가 있습니다. 일부 사악한 고블린들이 산타 순록을 납치했습니다! 선물주기가 위험해졌습니다!
+
+사악한 고블린이 암실, 주차장, 사무실에서 발견되었습니다.
+
+다음 사항을 명심하세요.
+
+  - 눈덩이가 없다면 고블린에게 너무 가까이 다가가지 마세요.
+  - 순록은 쿠키를 좋아합니다. 쿠키 중 일부를 떨어뜨리고 주의를 끌면 빛나는 별이 있는 크리스마스 트리로 쿠키 모두를 안내할 수 있습니다.
+
+순록을 구출하기 위해 동참하시겠습니까? 호호!</xmas_event_invite_txt>
 </Language>
